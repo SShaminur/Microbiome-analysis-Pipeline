@@ -9,6 +9,7 @@ A comprehensive suite of bash and R scripts for metagenomic analysis including t
 - **Antimicrobial Resistance**: MEGARES database analysis
 - **Virulence Factors**: VFDB database screening
 - **Functional Profiling**: HUMAnN3 pathway analysis
+- **Statistical analysis**: Phyloseq and other R packages analysis
 
 
 ## Quick Start
