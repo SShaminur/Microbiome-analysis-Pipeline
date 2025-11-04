@@ -1,10 +1,4 @@
 # Microbiome Analysis Pipeline
-
-Here's a comprehensive README.md file for your GitHub repository that describes the dependencies, requirements, usage, and outputs for all three analysis pipelines:
-
-```markdown
-# Metagenomic Analysis Pipeline Suite
-
 A comprehensive suite of bioinformatics pipelines for metagenomic analysis including taxonomic classification, antimicrobial resistance/virulence factor detection, and functional profiling.
 
 ## 🚀 Overview
