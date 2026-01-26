@@ -255,10 +255,7 @@ Each pipeline generates detailed log files:
 
 If you use these pipelines in your research, please cite:
 
-- **Kraken2**: Wood et al. (2019) Genome Biology
-- **Bracken**: Lu et al. (2017) PeerJ
-- **HUMAnN3**: Franzosa et al. (2018) Nature Methods
-- **MEGARES**: Doster et al. (2020) PLoS Computational Biology
+Rahman, M. Shaminur, Suborna Islam, Tamanna Jerin Anannya, Adnan Muyeed, Moumita Rahman Sazza, Mohammad Imtiaj Uddin Bhuiyan, and Selina Akter. "Dietary Lees Supplementation Enhances Poultry Health Performance Through Gut Ecosystem Reprogramming." bioRxiv (2026): 2026-01.
 
 
 
