@@ -255,7 +255,7 @@ Each pipeline generates detailed log files:
 
 If you use these pipelines in your research, please cite:
 
-Rahman, M. Shaminur, Suborna Islam, Tamanna Jerin Anannya, Adnan Muyeed, Moumita Rahman Sazza, Mohammad Imtiaj Uddin Bhuiyan, and Selina Akter. "Dietary Lees Supplementation Enhances Poultry Health Performance Through Gut Ecosystem Reprogramming." bioRxiv (2026): 2026-01.
+Rahman, M. Shaminur, Suborna Islam, Tamanna Jerin Anannya, Adnan Muyeed, Moumita Rahman Sazza, Mohammad Imtiaj Uddin Bhuiyan, and Selina Akter. "Dietary Lees Supplementation Enhances Poultry Health Performance Through Gut Ecosystem Reprogramming." bioRxiv (2026): 2026-01. https://www.biorxiv.org/content/10.64898/2026.01.23.700869v1 
 
 
 
